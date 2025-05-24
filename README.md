@@ -53,7 +53,9 @@ Hardware – PCs, Cyclone II , USB flasher
   assign f2=y1|y2|y3|y4|y5;
   endmodule
 ```
+
 Developed by : Vishal S
+
 Register Number :212224040364
   
 **Truth Table**
